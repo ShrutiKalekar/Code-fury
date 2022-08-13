@@ -1,0 +1,77 @@
+h1{
+    font-size: 8rem;
+    color: white;
+    font-family: 'Staatliches', cursive;
+}
+
+h2{
+    font-size:4rem;
+}
+
+.container-fluid{
+    background-color: #769FCD;
+    padding-left: 10%;
+}
+
+.navbar{
+    padding: 1% 0% 1% 0%;
+} 
+
+.navbar-brand{
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav{
+    margin-left: 45%;
+}
+
+.nav-item{
+    padding: 0px 8px;
+}
+
+.nav-link{
+    color: #F7FBFC;
+    font-size: 1.2rem;
+}
+
+.BackgroundImage{
+    width: 115%;
+    padding: 0%;
+}
+
+.container{
+    padding: 0%;
+    margin: 0;
+    position: relative;
+}
+
+.bigheading{
+    position: absolute;
+    top: 50%;
+    left: 33%;
+}
+
+#pricing{
+    padding: 5% 5%;
+    text-align: center;
+}
+
+.btn-3{
+    border-color: #769FCD;
+}
+
+.btn-3:hover{
+    background-color: #769FCD;
+    color: white;
+}
+
+#footer{
+    padding: 4%;
+    text-align: center;
+}
+
+.icons{
+    margin: 20px 10px;
+}
